@@ -4,9 +4,14 @@ A Flask app for gamers to track their owned games. [Used as a testbed for learni
 Must specify:
 
 instance/config.py
-	SECRET_KEY
-	SQLALCHEMY_DATABASE_URI
+__SECRET_KEY
+
+__QLALCHEMY_DATABASE_URI
+
+
 
 flask db init
+
 flask db migrate
+
 flask db upgrade
