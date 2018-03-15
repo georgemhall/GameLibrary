@@ -16,3 +16,5 @@ flask db init
 flask db migrate
 
 flask db upgrade
+
+THIS IS AN EDIT TO TEST MULTIPLE BRANCHES IN JENKINS
